@@ -15,5 +15,6 @@ def divide(x,y):
 	return "Divide_by_param"
     else:
 	return x/y
+#Square
 def square(x):
      return x*x
