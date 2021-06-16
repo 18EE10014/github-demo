@@ -1,13 +1,13 @@
-#Add implementation
+#Adding implementation
 def add(x,y):
     return x+y
-#Sub implementation
+#Subtarcting implementation
 def subtract(x,y):
     return x-y       # on master branch
-#Mul implementation
+#Multiplying implementation
 def multiply(x,y):
     return x*y        # on Bug456 branch
-#Divide implementation
+#Dividing implementation
 def divide(x,y):
     if x<0:
 	return "Negative_param"
