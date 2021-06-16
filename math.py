@@ -6,7 +6,7 @@ def subtract(x,y):
     return (x-y)       # on main branch
 #Multiplying implementation
 def multiply(x,y):
-    return x*y        # on Bug456 branch
+    return (x*y)        # on Bug456 branch
 #Dividing implementation
 def divide(x,y):
     if x<0:
